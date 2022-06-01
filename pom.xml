@@ -19,6 +19,7 @@
         <module>data-structures/hash-table</module>
         <module>homework-5/homework-5</module>
         <module>homework-6</module>
+        <module>homework-9</module>
     </modules>
 
     <dependencies>
